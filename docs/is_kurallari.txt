@@ -1,0 +1,20 @@
+- Bir ürün bir çok yorum içerebilir
+- Her ürünün adı, fiyatı, son kullanma tarihi ve markası bulunur
+- Her ürünün sadece bir markası olabilir
+- Vitaminler bir üründür
+- Vitaminler ağırlık, kullanım ve aktif maddeleri içerebilir
+- Proteinler tip, kullanım amacı, aktif maddeleri ve ağırlık içreir
+- Markalar bir çok ürüne sahip olabilir
+- Bir Yorum sadece bir Ürüne ait olablilr
+- bir müşteri sadece bir sepete sahip olabilir 
+- bir sepet sadece bir ödeme yöntemine sahip olabilir
+- her müşteri bir çok ürün alabilir
+- bir müşteri bir çok yorum yapabilir
+- bir müşteri bir çok işlem yapabilir
+- her işlem tarih ve ürünlere sahip olmalıdır
+- her ürün birden fazla etikete sahip olabilir
+- bir çok akitf madde bir çok üründe bulunabilir
+- bir sepetin bir ödeme yöntemi olabilir
+- bir markanın bir çok doktoru olabilir ama bir doktor sadece bir markada çalışabilir
+- bir çok kampanya bir çok markaya ait olabilir
+- bir çok kampanya bir çok ürüne ait olabilir
